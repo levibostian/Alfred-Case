@@ -20,6 +20,12 @@ In Alfred, type `case`, space, then enter in the text that you would like conver
 
 Hit <kbd>Enter</kbd> to copy the converted text to the clipboard.
 
+## Development
+
+If you go through the getting started guide for [alfy](https://github.com/sindresorhus/alfy), you will notice that when you develop using alfy, your project exists inside of your Alfred workflow directory. This is handy because it makes testing your workflow much easier because you can make an edit to your `index.js` file, save, then open alred and run your workflow. 
+
+Therefore, being able to develop for this plugin is not as easy as "git clone" and you're done. Instead, you need to 
+
 ## Credits 
 
 * [alfy](https://github.com/sindresorhus/alfy) - Made it pretty easy to crete a workflow!

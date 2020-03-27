@@ -12,7 +12,7 @@ $ npm install --global alfred-case
 
 *Requires [Node.js](https://nodejs.org) 8+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
-*Note: If you are using nvm on your machine, you may get a message when trying to use this workflow "couldn't find binary node". I fixed this issue by adding `ln -s $(command -v node) /usr/local/bin/node` to my `.bashrc` file which will create a symlink from the NVM node version.*
+*Note: If you are using nvm on your machine, you may get a message when trying to use this workflow "couldn't find binary node". I fixed this issue by running `ln -s $(command -v node) /usr/local/bin/node`.*
 
 ## Usage
 

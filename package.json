@@ -1,5 +1,5 @@
 {
- "name": "com.levibostian.alfred-case",
+ "name": "Alfred-Case",
  "version": "0.1.0",
  "description": "Alfred workout for converting text to different cases",
  "main": "index.js",
